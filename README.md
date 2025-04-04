@@ -41,7 +41,7 @@ git clone https://github.com/AnalyticsWithNeha/Atliq-Mart-Business-Insights.git
 
 ---
 
-**Contributing**
+## Contributing
 Contributions are welcome! If you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
 
 ---
@@ -64,4 +64,3 @@ To help navigate the project, here’s the structure of this repository:
  ┣ 📜 AtliQ_Business_Dashboard.pbix  # Power BI Dashboard  
  ┣ 📜 README.md                      # Project Documentation  
  ┣ 📜 LICENSE                        # MIT License  
- ┣ 📜 Contact Info                   # Neha Chauhan
