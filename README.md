@@ -34,6 +34,11 @@ This project is built **without coding**, using **Excel and Power BI** for data 
 
 ---
 
+## 🖼️ Dashboard Screenshot
+Below is a preview of the interactive Power BI dashboard used in this project:
+
+![Dashboard Screenshot](dashboard-preview.png)
+
 ## Clone the repository:
 ```bash
 git clone https://github.com/AnalyticsWithNeha/Atliq-Mart-Business-Insights.git
@@ -41,15 +46,15 @@ git clone https://github.com/AnalyticsWithNeha/Atliq-Mart-Business-Insights.git
 
 ---
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! If you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
 
 ---
 
-## License
+## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
+## 📬 Contact
 For any questions or feedback, feel free to reach out:
 - **Name**: Neha Chauhan
 - **Email**: analyticswithneha@gmail.com
@@ -64,3 +69,4 @@ To help navigate the project, here’s the structure of this repository:
  ┣ 📜 AtliQ_Business_Dashboard.pbix  # Power BI Dashboard  
  ┣ 📜 README.md                      # Project Documentation  
  ┣ 📜 LICENSE                        # MIT License  
+```
